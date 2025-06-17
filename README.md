@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Thomas Mathew!
 
 🎓 A passionate Python developer and learner  
-🔭 Currently working on: Python basics, NumPy, and stock market analysis  
-🌱 Exploring: Django, APIs, data visualization  
+🔭 Currently working on: Python basics, Artifical Intelligence and Machine Learning
+🌱 Exploring: Django, APIs, data visualization, Data Analysis  
 📫 Reach me at: thomasmathewz2210@gmail.com | [LinkedIn](https://www.linkedin.com/in/tm1022)   
 
 ---
@@ -16,6 +16,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=for-the-badge&logo=scikit-learn)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=for-the-badge&logo=python)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-333?style=for-the-badge&logo=openai)
+![Data Analyst](https://img.shields.io/badge/-Data%20Analyst-333?style=for-the-badge&logo=bar-chart)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 
 ---
