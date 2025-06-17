@@ -35,6 +35,7 @@
 - Pandas & Matplotlib
 - Artificial Intelligence
 - Meachine Learning
+- Data Analysis 
 - Git
 - Data Analysis 
 
