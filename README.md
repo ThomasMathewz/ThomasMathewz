@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasmathew&show_icons=true&theme=radical)
-![My Repositories]([https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmathew&layout=compact&theme=radical](https://github.com/ThomasMathewz?tab=repositories))
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasMathewz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMathewz&layout=compact&theme=radical)
 
 ---
 
