@@ -12,7 +12,7 @@
 ![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
+![📊 Matplotlib](https://img.shields.io/badge/-Matplotlib-orange)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=for-the-badge&logo=scikit-learn)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=for-the-badge&logo=python)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-333?style=for-the-badge&logo=openai)
