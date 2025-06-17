@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Thomas Mathew!
 
-<!--
-**ThomasMathewz/ThomasMathewz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate Python developer and learner  
+🔭 Currently working on: Python basics, NumPy, and stock market analysis  
+🌱 Exploring: Django, APIs, data visualization  
+📫 Reach me at: [thomasmathewz2210@gmail.com] | [LinkedIn](https://www.linkedin.com/in/tm1022)   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=for-the-badge&logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=for-the-badge&logo=python)
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-333?style=for-the-badge&logo=openai)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasmathew&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmathew&layout=compact&theme=radical)
+
+---
+
+## 🧠 Currently Learning
+
+- Django REST Framework
+- API Integration
+- Pandas & Matplotlib
+- Artificial Intelligence
+- Meachine Learning
+- Git
+- Data Analysis 
+
+---
+
+## 💬 Ask Me About
+Python, Git, Anaconda Jupyter, Web APIs, and more!
+
+---
