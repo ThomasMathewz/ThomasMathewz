@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thomas Mathew!
 
 🎓 A passionate Python developer and learner  
-🔭 Currently working on: Python basics, Artifical Intelligence and Machine Learning
+🔭 Currently working on: Python basics, Artifical Intelligence and Machine Learning            
 🌱 Exploring: Django, APIs, data visualization, Data Analysis  
 📫 Reach me at: thomasmathewz2210@gmail.com | [LinkedIn](https://www.linkedin.com/in/tm1022)   
 
