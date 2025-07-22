@@ -37,7 +37,6 @@
 - Meachine Learning
 - Data Analysis 
 - Git
-- Data Analysis 
 
 ---
 
