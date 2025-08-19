@@ -2,8 +2,8 @@
 
 🎓 A passionate Python developer and learner  
 🔭 Currently working on: Python basics, Artifical Intelligence and Machine Learning            
-🌱 Exploring: Django, APIs, data visualization, Data Analysis  
-📫 Reach me at: thomasmathewz2210@gmail.com | [LinkedIn](https://www.linkedin.com/in/tm1022)   
+🌱 Exploring: Flask, Django, APIs, data visualization, Data Analysis  
+📫 Reach me at: thomasmathewz2210@gmail.com | [LinkedIn](https://www.linkedin.com/in/tm1022) | [Portfolio](http://thomasmathew1022.pythonanywhere.com/)  
 
 ---
 
